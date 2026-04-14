@@ -135,6 +135,10 @@ JWT • OAuth • OTP Verification
 
 ---
 
+## 🌐 Find Me Online
+
+- 💼 Portfolio: https://trixneeck.me  
+
 ## 💡 Fun Fact
 ⚡ I enjoy solving real-world problems with code and building things that actually help people.
 

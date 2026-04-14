@@ -95,6 +95,15 @@ JWT • OAuth • OTP Verification
 </p>
 
 ---
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TechAsish1212/TechAsish1212/output/snake.svg" />
+</p>
+
+---
 
 ## 🤝 Connect With Me
 

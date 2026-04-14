@@ -52,12 +52,23 @@ JWT • OAuth • OTP Verification
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
-### 🎯 Currently Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=typescript,docker" />
+---
+
+## 🎯 Currently Learning & Growing
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,js,ts" />
 </p>
 
----
+<p align="center">
+  🤖 AI Development • 📱 React Native • 🧠 System Design
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile-React%20Native-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Daily-orange?style=for-the-badge" />
+</p>
 
 ## 📊 GitHub Stats
 
@@ -95,15 +106,7 @@ JWT • OAuth • OTP Verification
 </p>
 
 ---
----
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TechAsish1212/TechAsish1212/output/snake.svg" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 

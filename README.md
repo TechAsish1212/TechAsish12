@@ -84,14 +84,22 @@ JWT • OAuth • OTP Verification
 
 ## 🚀 Featured Projects 
 
-### 🔹 Blogging Platform
-- Full CRUD blog system  
-- Likes, comments, notifications  
-- JWT & Google Authentication  
+## 🚀 Featured Projects
 
-### 🔹 Portfolio Website
-- Fully responsive design  
-- Clean UI with modern animations  
+<p align="center">
+  <a href="https://github.com/TechAsish1212/blog-server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechAsish1212&repo=YOUR_BLOG_REPO&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/TechAsish1212/portfolio12">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechAsish1212&repo=YOUR_PORTFOLIO_REPO&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/TechAsish1212/feedback-fusion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TechAsish1212&repo=YOUR_OTHER_PROJECT&theme=tokyonight&hide_border=true" />
+  </a>
+</p> 
 
 ---
 

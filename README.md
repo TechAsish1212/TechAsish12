@@ -66,25 +66,25 @@ JWT • OAuth • OTP Verification
   <img src="https://img.shields.io/badge/Learning-Daily-orange?style=for-the-badge" />
 </p>
 
-<div align="center">
+<!-- <div align="center"> -->
 
 # 📊 GitHub Stats
 
-<img src="https://github-readme-stats.shion.dev/api?username=TechAsish1212&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
+<div align="center">
+
+<!-- Stats + Languages side by side -->
+<img height="170em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=TechAsish1212&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&include_all_commits=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TechAsish1212&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=6" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=TechAsish1212&theme=tokyonight&hide_border=false" />
+<!-- Streak — fully bright numbers -->
+<img src="https://streak-stats.demolab.com/?user=TechAsish1212&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" />
 
 <br/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TechAsish1212&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=TechAsish1212&icon=0&color=0" />
 
 </div>
+
 
 ## 🚀 Projects
 
